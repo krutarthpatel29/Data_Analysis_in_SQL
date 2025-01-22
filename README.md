@@ -54,10 +54,10 @@ AtliQ Hardware needed an in-depth analysis of its sales data to identify pattern
 
 ## Key Insights
 - **Customer & Market Insights**: Identified top markets and customers contributing to sales growth.  
-- **Product Performance**: Notebooks and accessories were top-performing segments, with unique product counts increasing by 36%.  
-- **Sales Trends**: Retailer channels contributed 73% of gross sales in FY2021.  
+- **Product Performance**: Notebooks and accessories were top-performing segments, with unique product counts increasing by 36.33%.  
+- **Sales Trends**: Retailer channels contributed 73.22% of gross sales in FY2021.  
 - **Discount Impact**: Flipkart, Viveks, Ezone, Croma and Amazon received the highest average discounts.  
-- **Seasonality**: Q1 2020 (Sept, Oct, Nov) recorded the highest total sold quantity.
+- **Seasonality**: Q1 2020 (Sept, Oct, Nov) recorded the highest total sold quantity is $7.01 million.
 
 ---
 
