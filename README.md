@@ -13,7 +13,6 @@ This project focuses on analyzing sales and operational data for AtliQ Hardware 
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Impact of This Analysis](#impact-of-this-analysis)
-- [Contact](#contact)
 
 ---
 
@@ -71,11 +70,3 @@ AtliQ Hardware needed an in-depth analysis of its sales data to identify pattern
 
 ## Impact of This Analysis
 This project not only provided AtliQ Hardware with actionable insights to improve sales and customer satisfaction but also demonstrated the power of data storytelling. It highlighted the importance of aligning analytics with business needs to drive results.
-
----
-
-## Contact
-For any queries, feel free to reach out:  
-**Rachana Hadke**  
-- [LinkedIn](https://www.linkedin.com/in/rachana-hadke)  
-- [Email](mailto:rachana@example.com)
